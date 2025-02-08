@@ -22,16 +22,16 @@
 
 <a href="https://github.com/criss-veno/CRISS-XMD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-grey" alt="FORK CRISS-XBOT" width="150"></a>
 
-  <a href="https://lucky-id.onrnder.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=brown&style=for-the-badge&logo=git" width="230" height="38.45"/></a></p>
+  </a></p>
+- <a href="https://lucky-id.onrender.com"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/✧SCAN✧CODE✧1✧-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=toyota&logoColor=white" width="240" height="38.45"/></a></p>
 
 
 
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/criss-veno/CRISS-XBOT&template=https://github.com/criss-veno/CRISS-XBOT.git)***
-
-<br>
+ </a></p>
+- <a href='https://dashboard.heroku.com/new?button-url=https://github.com/criss-veno/CRISS-XBOT&template=https://github.com/criss-veno/CRISS-XBOT.git' target="_silver"><img alt='DEPLOY' src='DEPLOY 𝕋𝕆 HEROKU-rgb(32, 178, 170)?style=for-the-badge&logo=Chevrolet&logoColor=yellow' width="240" height="38.45"/></a>
 
  
 **𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
