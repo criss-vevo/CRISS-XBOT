@@ -23,7 +23,7 @@
 <a href="https://github.com/criss-veno/CRISS-XMD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-grey" alt="FORK CRISS-XBOT" width="150"></a>
 
   </a></p>
-- <a href="https://lucky-id.onrender.com"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/✧SCAN✧CODE✧1✧-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=toyota&logoColor=white" width="240" height="38.45"/></a></p>
+- <a href="https://lucky-id.onrender.com"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/✧SCAN✧CODE✧1✧-h?color=pink&style=for-the-badge&logo=autheticator&logoColor=white" width="240" height="38.45"/></a></p>
 
 
 
@@ -31,7 +31,7 @@
 
 
  </a></p>
-- <a href='https://dashboard.heroku.com/new?template=https://github.com/criss-veno/CRISS-XBOT' target="_silver"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝔻𝔼ℙ𝕃𝕆𝕐 𝕋𝕆 ℍ𝔼ℝ𝕆𝕂𝕌-rgb(32, 178, 170)?style=for-the-badge&logo=ferrari&logoColor=yellow' width="240" height="38.45"/></a>
+- <a href="https://dashboard.heroku.com/new?template=https://github.com/criss-vevo/CRISS-XBOT"><img title="DEPLOY TO HEROKU" src="https://img.shields.io/badge/DEPLOY TO HEROKU-h?color=purple&style=for-the-badge&logo=heroku&logoColor=white" width="240" height="38.45"/></a></p>
 
  
 **𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
