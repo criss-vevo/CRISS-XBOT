@@ -31,7 +31,7 @@
 
 
  </a></p>
-- <a href='https://dashboard.heroku.com/new?button-url=https://github.com/criss-veno/CRISS-XBOT&template=https://github.com/criss-veno/CRISS-XBOT.git' target="_silver"><img alt='DEPLOY' src='DEPLOY 𝕋𝕆 HEROKU-rgb(32, 178, 170)?style=for-the-badge&logo=Chevrolet&logoColor=yellow' width="240" height="38.45"/></a>
+- <a href='https://dashboard.heroku.com/new?button-url=https://github.com/criss-veno/CRISS-XBOT&template=https://github.com/criss-veno/CRISS-XBOT.git' target="_silver"><img alt='DEPLOY' src='DEPLOY TO HEROKU-rgb(32, 178, 170)?style=for-the-badge&logo=Chevrolet&logoColor=yellow' width="240" height="38.45"/></a>
 
  
 **𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
