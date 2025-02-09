@@ -23,7 +23,7 @@
 <a href="https://github.com/criss-veno/CRISS-XMD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-grey" alt="FORK CRISS-XBOT" width="150"></a>
 
   </a></p>
-- <a href="https://lucky-id.onrender.com"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/✧SCAN✧CODE✧1✧-h?color=pink&style=for-the-badge&logo=autheticator&logoColor=white" width="240" height="38.45"/></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+CRISS-VMD+MADE+IN+TANZANIA" alt="Typing SVG" /></a>
 
 
 
